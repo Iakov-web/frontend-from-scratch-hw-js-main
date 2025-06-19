@@ -6,7 +6,7 @@ let sum = 0
 
 let i = 1
 
-while (i <= 21) {
+while (i <= 20) {
 sum = sum + i
 i++
 }
